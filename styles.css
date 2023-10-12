@@ -1,0 +1,43 @@
+.centered {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(135, 125, 201);
+  margin-top: 10vh;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+.divbackground {
+  width: 80%;
+  background-color: rgb(82, 62, 178);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+form {
+  display: block;
+  width: 100%;
+  margin: 1em auto;
+  font-size: 1.1rem;
+  min-width: 100px;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+input,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+  padding-left: 1vh;
+  background-color: #9696de;
+  border: 1px solid #0a0a23;
+  color: #ffffff;
+}
